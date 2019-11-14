@@ -1,3 +1,9 @@
+regolith-i3-gaps-config (2.0.0.0-1ubuntu1~ppa1~disco) disco; urgency=medium
+
+  * Update for compositor to virtual package.
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Fri, 08 Nov 2019 07:24:45 -0800
+
 regolith-i3-gaps-config (1.18.19.1-1ubuntu1~ppa1~disco) disco; urgency=medium
 
   * Add workspace movement keybindings from @leosunmo. 
