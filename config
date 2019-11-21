@@ -327,7 +327,7 @@ bar {
 
 # Run programs when i3 starts
 
-# Start the composite manager
+# Start the installed regolith-compositor
 exec --no-startup-id /usr/share/regolith-compositor/init
 
 # Launch the shortcut Conky window on first login
