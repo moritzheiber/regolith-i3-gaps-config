@@ -1,3 +1,10 @@
+regolith-i3-gaps-config (2.0.3-1ubuntu1~ppa1~disco) disco; urgency=medium
+
+  * Start Rofication daemon
+  * Move Super+n from network to notification dialog 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Sat, 30 Nov 2019 20:47:32 -0800
+
 regolith-i3-gaps-config (2.0.2-1ubuntu1~ppa1~disco) disco; urgency=medium
 
   * Update for compositor to virtual package.
