@@ -1,3 +1,9 @@
+regolith-i3-gaps-config (2.0.4-1ubuntu1~ppa1~disco) disco; urgency=medium
+
+  * Add i3-snapshot dependency and keybindings. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Sun, 15 Dec 2019 16:38:07 -0800
+
 regolith-i3-gaps-config (2.0.3-1ubuntu1~ppa1~disco) disco; urgency=medium
 
   * Start Rofication daemon
@@ -11,7 +17,7 @@ regolith-i3-gaps-config (2.0.2-1ubuntu1~ppa1~disco) disco; urgency=medium
 
  -- Ken Gilmer <kgilmer@gmail.com>  Fri, 08 Nov 2019 07:24:45 -0800
  
- regolith-i3-gaps-config (1.18.19.1-1ubuntu1~ppa1~disco) disco; urgency=medium
+regolith-i3-gaps-config (1.18.19.1-1ubuntu1~ppa1~disco) disco; urgency=medium
 
   * Add workspace movement keybindings from @leosunmo. 
 
