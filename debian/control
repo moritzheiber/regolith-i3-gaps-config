@@ -11,6 +11,7 @@ Architecture: any
 Depends: ${misc:Depends},
         i3-gaps-wm,
         i3-snapshot,
-        regolith-compositor
+        regolith-compositor,
+        regolith-ftue
 Conflicts: regolith-i3-wm
 Description: Regolith i3-gaps config file

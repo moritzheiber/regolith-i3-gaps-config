@@ -1,3 +1,9 @@
+regolith-i3-gaps-config (2.1.0-1ubuntu1~ppa1~disco) disco; urgency=medium
+
+  * Migrate from regolith-conky-config to regolith-ftue. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Tue, 24 Dec 2019 21:39:48 -0800
+
 regolith-i3-gaps-config (2.0.4-1ubuntu1~ppa1~disco) disco; urgency=medium
 
   * Add i3-snapshot dependency and keybindings. 
